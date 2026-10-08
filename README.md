@@ -1,1 +1,1 @@
-# GitFlow Assignment
+This is a sample README.
